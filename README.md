@@ -134,4 +134,4 @@ Reduction:             40%
 
 **Sumit Kumar**
 GitHub: [sumitxkothari](https://github.com/sumitxkothari)
-LinkedIn: [linkedin/in/sumit kothari]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sumit-kothari-ba18002b7/))
+LinkedIn: [linkedin/in/sumit kothari](https://www.linkedin.com/in/sumit-kothari-ba18002b7/)
