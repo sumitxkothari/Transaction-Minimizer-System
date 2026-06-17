@@ -108,6 +108,9 @@ Original transactions: 5
 Minimum settlements:   3
 Reduction:             40%
 
+./min-transact < sample1.txt   # direct settlement test
+./min-transact < sample2.txt   # relay routing test
+
 ---
 
 ## 📁 Project Structure
