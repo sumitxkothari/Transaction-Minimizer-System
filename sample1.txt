@@ -1,0 +1,12 @@
+4
+Alice Bob Charlie Dave
+5
+Alice Bob 700
+Alice Charlie 400
+Bob Charlie 200
+Dave Bob 300
+Dave Charlie 100
+UPI PayPal -1
+UPI Paytm -1
+PayPal Paytm -1
+UPI PayPal -1
